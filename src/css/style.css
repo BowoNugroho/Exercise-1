@@ -1,0 +1,79 @@
+body{
+    justify-content: center;
+    align-content: center;
+    padding: 100px 100px 100px 100px; 
+}
+.header{
+    height: 300px;
+    width: 100%;
+    border-radius: 15px 15px 0 0;
+    background-image:url('../img/img2.jpg'); 
+    background-size: 1500px;
+    background-position: 0;   
+}
+.footer{
+    position: relative;
+    display: inline-flex;
+}
+.sosmed{
+    height: 200px;
+    width: 500px;
+    background-color:rgb(201, 201, 201); 
+}
+.sosmed h1{
+    padding-left: 220px;
+}
+.sosmed img{
+    padding-left: 88px;
+    padding-top: 50px; 
+    margin-right: 24px;
+}
+.bio{
+    height: 200px;
+    width: 100px;
+    background-color: rgb(201, 201, 201);
+    padding-left: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: initial;
+}
+.subbio{
+    height: 200px;
+    width: 383px;
+    background-color: rgb(201, 201, 201);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.pict{
+    margin-top: 30px;
+    margin-left: 150px;
+    height: 250px;
+    width: 230px;
+    background-image: url('../img/img3.JPG');
+    background-size: 310px;
+    background-position: center;
+    border-radius: 20px;
+    position: absolute;
+}
+.name{
+    height: 150px;
+    width: 400px;
+    margin-left: 500px;
+    padding-top: 90px;
+    padding-left: 100px;
+}
+.name1{
+    font-size: 50px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.facebook{
+    height: 40px;
+    width: 40px;
+}
+.instagram{
+    height: 40px;
+    width: 40px;
+}
+.github{
+    height: 40px;
+    width: 40px;
+}
